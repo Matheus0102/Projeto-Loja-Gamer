@@ -1,0 +1,49 @@
+header {
+    background-color: #4C4AB9;
+}
+#logo{
+    width: 8%;
+    height: 300px;
+    float: left;
+}
+#login{
+    height: 30px;
+    width: 90px;
+    float: left;
+}
+#menu{
+    text-align: end;
+}
+body{
+    background-color: black;
+}
+a{
+    color: white;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+footer{
+    background-color: #4C4AB9;
+    border: none;
+}
+ol{
+    float:right;
+    color: white;
+}
+footer div img{
+    float:left;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    margin-left: 35px;
+}
+ul {
+    color: white;
+}
