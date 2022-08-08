@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+.cabecalho .corFundo{
+    background-color: rgb(27, 27, 214);
+    width: fit-content;
+}
+
+.cabecalho{
+    height: 90px;
+}
+
+.conteudoPrincipal .tituloDestaque{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+.conteudoPrincipal .galeriaImagens{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.card-body{
+    background-color: rgb(75, 75, 230);
+    color: white;
+}
+
+.text-center {
+    color: white;
+}
