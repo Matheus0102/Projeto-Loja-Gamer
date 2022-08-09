@@ -1,6 +1,6 @@
 # Projeto-Loja-Gamer
 
-Projeto escolar finalizado
+Projeto escolar finalizado: Página Index e Pàgina de Login OK
 
 linguagem de programação usados:
 HTML5
