@@ -1,3 +1,13 @@
 # Projeto-Loja-Gamer
 
-Projeto ainda em andamento
+Projeto escolar finalizado
+
+linguagem de programação usados:
+HTML5
+CSS
+JavaScript
+
+Frameworks utilizados:
+
+Bootstrap
+Jquery
