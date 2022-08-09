@@ -1,3 +1,5 @@
-function mudarTema(){
-    document.body.classList.toggle("temaDarkBlue")
+function mudarFonte(){
+
+    document.body.classList.toggle("mudarFonte");
+    
 }

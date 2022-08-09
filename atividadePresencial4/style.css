@@ -2,11 +2,6 @@ body{
     background-color: black;
 }
 
-.mudarFonte{
-    font-size: 23px;
-}
-
-
 .cabecalho .corFundo{
     background-color: black;
     width: fit-content;
